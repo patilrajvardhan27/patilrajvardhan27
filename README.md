@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Patil</h1>
 <h3 align="center">I am a Second-year CSE student . My passion for Computers brought me to the Computer Science at VIT University, where I am currently working on myself and learning/exploring the world of computer and technology.</h3>
 
-- 🔭 I’m currently working on [A application for a firm](https://github.com/patilrajvardhan27/KC)
+- 🔭 (https://github.com/patilrajvardhan27/KC)
 
-- 🌱 I’m currently learning **Android Application development , DSA**
+- 🌱 I’m currently learning **Mobile Application development 
 
 - 📫 How to reach me **patilrajvardhan27@gmail.com**
 
