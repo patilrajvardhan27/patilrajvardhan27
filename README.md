@@ -1,8 +1,6 @@
-### Hi there 👋 I am Dhruv
+### Hi there 👋 I am Rajvardhan
 
-
-- 😄 Pronouns: he/him
-- 🚀 I am currently learning Web Development 
+- 🚀 I am currently learning Mobile Application Development 
 
     <div>
          <a href="www.linkedin.com/in/rajvardhan-patil-8746051a9">
