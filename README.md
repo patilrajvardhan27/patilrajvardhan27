@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilrajvardhan27&label=Profile%20views&color=0e75b6&style=flat" alt="patilrajvardhan27" /> </p>
 
-- 🌱 I’m currently learning **Flutter Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/patilrajvardhan27?tab=repositories](https://github.com/patilrajvardhan27?tab=repositories)
 
 - 📫 How to reach me **patilrajvardhan27@gmail.com**
