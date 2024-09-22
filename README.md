@@ -5,8 +5,6 @@
 
 <img align="right" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/PC.gif" width="200">
 
-- 🔭 I’m currently working on **Dairy App**
-
 - 🌱 I’m currently learning **Data Engineering via Cloud Tech**
 
 - 🤝 I’m looking for help with **Data Engineering via Cloud Tech**
@@ -16,8 +14,6 @@
 - 💬 Ask me about **Flutter / Mobile App Development**
 
 - 📫 How to reach me **patilrajvardhan27@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N1tL05ngavpPolc9iCRBxQVrv3TezCwd/view?usp=drive_link](https://drive.google.com/file/d/1N1tL05ngavpPolc9iCRBxQVrv3TezCwd/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
