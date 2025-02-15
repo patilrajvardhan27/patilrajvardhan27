@@ -1,4 +1,4 @@
-[![](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/patilrajvardhan27/patilrajvardhan27/blob/e67cd42e01c96512aef87bc4613a4c19ac39f5e5/coding%20gif.gif)
+[![](https://github.com/patilrajvardhan27/patilrajvardhan27/blob/5c61735aab058029c7b993df36ef99b726f319aa/coding%20gif.gif)]
 <h1 align="center">Hi 👋, I'm Rajvardhan Patil</h1>
 <h3 align="center">Where will today’s curiosity lead tomorrow?.</h3>
 
