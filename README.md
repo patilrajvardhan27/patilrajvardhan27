@@ -11,4 +11,5 @@
     <p align="center"> 
 </p>
 
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="https://github.com/patilrajvardhan27/patilrajvardhan27/blob/main/github-user-contribution.svg"><desc>Generated with 
+![](github-user-contribution.svg)
+
