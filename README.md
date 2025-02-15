@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Patil</h1>
-<h3 align="center">I'm a passionate and dedicated Computer Science Engineering student with a strong desire to make a positive impact in the world of technology. My journey in the field of computer science has been an exhilarating one, marked by a thirst for knowledge, hands-on experience, and a commitment to continuous growth.</h3>
+<h3 align="center">Where will today’s curiosity lead tomorrow?.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilrajvardhan27&label=Profile%20views&color=0e75b6&style=flat" alt="patilrajvardhan27" /> </p>
 
