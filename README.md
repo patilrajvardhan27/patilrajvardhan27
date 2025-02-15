@@ -11,5 +11,5 @@
     <p align="center"> 
 </p>
 
-![](github-user-contribution.svg)
+![](github-user-contribution light.svg)
 
