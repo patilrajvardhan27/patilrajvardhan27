@@ -5,16 +5,6 @@
 
 <img align="right" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/PC.gif" width="200">
 
-- 🌱 I’m currently learning **Data Engineering via Cloud Tech**
-
-- 🤝 I’m looking for help with **Data Engineering via Cloud Tech**
-
-- 👨‍💻 All of my projects are available at [https://www.rajvardhan.cloud/](https://www.rajvardhan.cloud/)
-
-- 💬 Ask me about **Flutter / Mobile App Development**
-
-- 📫 How to reach me **patilrajvardhan27@gmail.com / 9373627584**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajvardhan-patil-8746051a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajvardhan-patil-8746051a9/" height="30" width="40" /></a>
