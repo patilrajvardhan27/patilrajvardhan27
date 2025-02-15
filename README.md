@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img  align="center" src="https://github.com/patilrajvardhan27/patilrajvardhan27/blob/e67cd42e01c96512aef87bc4613a4c19ac39f5e5/coding%20gif.gif" width="200">
+<img  align="center" src="https://github.com/patilrajvardhan27/patilrajvardhan27/blob/e67cd42e01c96512aef87bc4613a4c19ac39f5e5/coding%20gif.gif" >
     <p align="center"> 
 </p>
 
