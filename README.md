@@ -1,3 +1,4 @@
+<img src="images/svg/header_en.svg"></img>
 <h1 align="center">Hi 👋, I'm Rajvardhan Patil</h1>
 <h3 align="center">Where will today’s curiosity lead tomorrow?.</h3>
 
